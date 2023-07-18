@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav-logo{
+    display: flex;
+    
+    width: 50%;
+}
+.nav-menue{
+    width: 50%;
+}
+.menue-item{
+    display: flex;
+    justify-content: space-between;
+}
